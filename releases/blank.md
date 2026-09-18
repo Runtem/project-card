@@ -1,0 +1,1 @@
+# There's nothing in the releases folder so far but it wouldn't appear on GitHub since there aren't any files so I added this instead
